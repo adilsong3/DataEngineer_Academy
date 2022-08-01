@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como Analista de Suporte Técnico [na empresa Hilab](https://hilab.com.br/)
 
-- 🌱 Atualmente estou cursando **Ciência de Dados** na uninter
+- 🌱 Atualmente estou cursando **Ciência de Dados** na [Uninter](https://www.uninter.com/)
 
 - 🌱 Atualmente estou aprendendo **Python, SQL e Modelagem de dados**
 
