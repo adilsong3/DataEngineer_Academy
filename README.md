@@ -21,5 +21,5 @@
 
 ## Extração de Dados Via API com orquestrador Airflow Astronomer:
 
-* Dados Messoregiões IBGE e PNADC: **encurtador.com.br/cDKSY**
-* Dados do Intercom: **encurtador.com.br/arFLQ**
+* Dados Messoregiões IBGE e PNADC: [veja o projeto](encurtador.com.br/cDKSY)
+* Dados do Intercom: [veja o projeto](encurtador.com.br/arFLQ)
