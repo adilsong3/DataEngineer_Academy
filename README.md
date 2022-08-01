@@ -1,7 +1,10 @@
 <h1 align="center">Oi 👋, me chamo Adilson Gustavo</h1>
-<h3 align="center">Apaixonado por tratamento e analise de dados</h3>
+
+## Apaixonado por tratamento e analise de dados
 
 - 🔭 Atualmente trabalho como Analista de Suporte Técnico [na empresa Hilab](https://hilab.com.br/)
+
+- 🌱 Atualmente estou cursando **Ciência de Dados** na uninter
 
 - 🌱 Atualmente estou aprendendo **Python, SQL e Modelagem de dados**
 
