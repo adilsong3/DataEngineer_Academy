@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou cursando **Ciência de Dados** na [Uninter](https://www.uninter.com/)
 
-- 🌱 Atualmente estou aprendendo **Python, SQL e Modelagem de dados**
+- 🌱 Atualmente estou aprendendo **Python, SQL, Modelagem de dados e Airflow**
 
 - 💬 Me pergunte sobre **MongoDB, SQL e Python**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adilson-gustavo-a74b98133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adilson-gustavo-a74b98133/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adilson-gustavo-a74b98133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adilson-gustavo-a74b98133/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,5 +24,5 @@
 
 ## Extração de Dados Via API com orquestrador Airflow Astronomer:
 
-* Dados Messoregiões IBGE e PNADC: [veja o projeto](https://github.com/adilsong3/DataEngineer_desafio_final_xp)
-* Dados do Intercom: [veja o projeto](https://github.com/adilsong3/DataEngineer_project_intercom_1)
+* Dados Messoregiões IBGE e PNADC: [clique para ver o projeto](https://github.com/adilsong3/DataEngineer_desafio_final_xp)
+* Dados do Intercom: [clique para ver o projeto](https://github.com/adilsong3/DataEngineer_project_intercom_1)
