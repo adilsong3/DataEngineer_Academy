@@ -24,5 +24,5 @@
 
 ## Extração de Dados Via API com orquestrador Airflow Astronomer:
 
-* Dados Messoregiões IBGE e PNADC: [clique para ver o projeto](https://github.com/adilsong3/DataEngineer_desafio_final_xp)
-* Dados do Intercom: [clique para ver o projeto](https://github.com/adilsong3/DataEngineer_project_intercom_1)
+* Projeto com Dados Messoregiões IBGE e PNADC: [clique para ver o projeto](https://github.com/adilsong3/DataEngineer_desafio_final_xp)
+* Projeto com Dados do Intercom: [clique para ver o projeto](https://github.com/adilsong3/DataEngineer_project_intercom_1)
