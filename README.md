@@ -2,13 +2,13 @@
 
 ## Apaixonado por tratamento e analise de dados
 
-- 🔭 Atualmente trabalho como Analista de Suporte Técnico [na empresa Hilab](https://hilab.com.br/)
+- 🔭 Atualmente trabalho com Operações de Dados [na empresa OtoCRM](https://www.otocrm.com.br/)
 
 - 🌱 Atualmente estou cursando **Ciência de Dados** na [Uninter](https://www.uninter.com/)
 
-- 🌱 Atualmente estou aprendendo **Python, SQL, Modelagem de dados e Airflow**
+- 🌱 Atualmente estou aprendendo **Python, SQL, Modelagem de dados, Airflow e Automação de tarefas**
 
-- 💬 Me pergunte sobre **MongoDB, SQL e Python**
+- 💬 Me pergunte sobre **MongoDB, SQL, Python e Automação**
 
 - 📫 Você me acha através do e-mail **adilsongustavopro@gmail.com**
 
