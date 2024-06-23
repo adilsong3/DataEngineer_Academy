@@ -1,7 +1,5 @@
 <h1 align="center">Oi 👋, me chamo Adilson Gustavo</h1>
 
-<sub>*Graduando em Ciência de Dados na Uninter*</sub>
-
 - 🔭 Atualmente trabalho com Operações de Dados [na empresa OtoCRM](https://www.otocrm.com.br/)
 
 - 🌱 Atualmente estou cursando **Ciência de Dados** na [Uninter](https://www.uninter.com/)
